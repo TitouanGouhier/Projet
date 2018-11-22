@@ -1,2 +1,2 @@
-# U-Make-Project-Day-Triper
+# Projet
 Voici mes premiers projet.
